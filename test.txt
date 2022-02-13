@@ -2,4 +2,4 @@ test test test
 git add
 git commit
 git status
-
+git diff
